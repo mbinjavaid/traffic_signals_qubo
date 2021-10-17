@@ -1,6 +1,6 @@
 # traffic-signals-qubo
 
-Run this program on D-Wave by inserting your LEAP API token in line 319 of main.py
+Run this program on D-Wave by inserting your D-Wave LEAP API token in line 319 of main.py
 
 If no token is entered, optimization calls will be handled locally.
 
